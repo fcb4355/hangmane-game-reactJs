@@ -28,5 +28,5 @@ Follow these steps to run the project locally on your machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/fcb4355/hangmane-game-reactJs.git](https://github.com/fcb4355/hangmane-game-reactJs.git)
+git clone https://github.com/fcb4355/hangmane-game-reactJs.git
 cd hangmane-game-reactJs
