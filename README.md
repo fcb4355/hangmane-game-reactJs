@@ -29,4 +29,10 @@ Follow these steps to run the project locally on your machine:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/fcb4355/hangmane-game-reactJs.git
+```
+
+### 2. Enter to Folder Game
+```bash
 cd hangmane-game-reactJs
+```
+
