@@ -19,7 +19,6 @@ A modern, responsive, and interactive **Hangman Game** built using **React JS**,
 * **Framework:** [React.js](https://react.dev/) (Functional Components & Hooks)
 * **Styling:** [Tailwind CSS](https://tailwindcss.com/) (Utility-first CSS framework)
 * **UI Library:** [HeroUI](https://www.heroui.com/) (For stunning buttons, modals, and layouts)
-* **Icons:** [Lucide React](https://lucide.dev/) / React Icons
 
 ---
 
@@ -29,5 +28,5 @@ Follow these steps to run the project locally on your machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/hangman-game.git](https://github.com/your-username/hangman-game.git)
-cd hangman-game
+git clone [https://github.com/fcb4355/hangmane-game-reactJs.git](https://github.com/fcb4355/hangmane-game-reactJs.git)
+cd hangmane-game-reactJs
