@@ -1,12 +1,33 @@
-# React + Vite
+# 🎮 Hangman Game (React + Tailwind CSS + HeroUI)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and interactive **Hangman Game** built using **React JS**, styled with **Tailwind CSS**, and enhanced with beautifully crafted UI components from **HeroUI**. Test your vocabulary skills in a sleek, glassmorphic dark-themed gaming environment!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+* **Sleek Modern UI:** Built with **HeroUI** (formerly NextUI) guidelines, featuring beautiful gradients, soft border radii, and a high-contrast dark mode aesthetic.
+* **Dynamic Visuals:** Interactive hangman drawing state that updates progressively with every incorrect guess.
+* **Virtual Keyboard:** On-screen responsive keyboard that handles clicked/disabled states gracefully, alongside physical keyboard support.
+* **Win/Loss Modals:** Elegant alerts and popups showcasing the final score and giving an option for instant replays.
+* **Responsive Layout:** Fully optimized for mobile screens, tablets, and desktops.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tech Stack
+
+* **Framework:** [React.js](https://react.dev/) (Functional Components & Hooks)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/) (Utility-first CSS framework)
+* **UI Library:** [HeroUI](https://www.heroui.com/) (For stunning buttons, modals, and layouts)
+* **Icons:** [Lucide React](https://lucide.dev/) / React Icons
+
+---
+
+## 🛠️ Installation & Getting Started
+
+Follow these steps to run the project locally on your machine:
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/your-username/hangman-game.git](https://github.com/your-username/hangman-game.git)
+cd hangman-game
